@@ -1,1 +1,4 @@
-This will be the folder for my project on diversity and tolerance
+This will be the folder for the paper:
+"The 'Homogenizing' Influence of Heterogeneity: Religious Identity and Outgroup Tolerance Around the World."
+
+
